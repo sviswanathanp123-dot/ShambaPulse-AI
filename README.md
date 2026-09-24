@@ -190,6 +190,28 @@ The system communicates unusual environmental patterns and uncertainty instead o
 
 ---
 
+
+## 🏗️ System Architecture
+
+![ShambaPulse AI Architecture](ShambaPulse_Architecture%20%281%29.png)
+
+---
+
+## 📸 Dashboard Screenshots
+
+### Main Dashboard
+
+![Main Dashboard](Screenshot%202026-09-24%20114847.png)
+
+### Environmental Intelligence
+
+![Environmental Intelligence](Screenshot%202026-09-24%20114930.png)
+
+### Farmer Action Intelligence
+
+![Farmer Action Intelligence](Screenshot%202026-09-24%20114946.png)
+
+---
 ## 🛠️ Technology Stack
 
 - **Python**
