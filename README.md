@@ -158,6 +158,21 @@ Farmer Action Intelligence
 ```
 
 ---
+## 🤖 AI / Analytics Usage
+
+ShambaPulse AI uses an unsupervised statistical pattern detector to compare recent multi-variable environmental conditions with historical observations.
+
+The analysis considers environmental signals such as:
+
+- Temperature
+- Humidity
+- Wind Speed
+- Heat Index
+- Wet Bulb Temperature
+
+The system does not use a trained crop-failure prediction model. Instead, it uses transparent statistical calculations to identify unusual environmental patterns and communicate uncertainty.
+
+AI-assisted development tools were used during the development of the prototype, while the team reviewed and understood the implemented logic.
 
 ## 🛡️ Responsible AI & Limitations
 
